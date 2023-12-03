@@ -2,11 +2,10 @@
 
 *Prerequisites: `python3`.*
 
-Make an amalgamation from a C/C++ source or header.\
-Reduce file and dependency complexity more or less approximately.
+Generate an amalgamation from a C/C++ source or header.
 
 ### Usage
-```sh
+```
 amalgamation
     [--root, -R]       set root directory (default .)
     --source, -S       set source file
